@@ -1,7 +1,5 @@
 # GOOGLE IT Automation with Python
 
-I am editing the README file. Adding some more details about the project description.
+## TASK 1. Processing Text Files with Python Dictionaries and Uploading to Running Web Service
 
-Used Python and Bash to create automation scripts. Learnt the core principles of Object-Oriented Programming (OOP). Utilized Git and Github to share
-and collaborate on coding projects. Gained cloud computing skills through the Google Cloud platform. Explored Puppet configuration management. Developed
-advanced troubleshooting and debugging skills.
+You are working at a company that sells second-hand cars. Your company constantly collects feedback in the form of customer reviews. Your manager asks you to take those reviews (saved as .txt files) and display them on your company's website. To do this, you'll need to write a script to convert those .txt files and process them into Python dictionaries, then upload the data onto your company's website, which currently using Django.
