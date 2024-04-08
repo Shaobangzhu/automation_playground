@@ -18,3 +18,13 @@ What I've Completed
 - Write a script that summarizes and processes sales data into different categories
 - Generate a PDF using Python
 - Automatically send a PDF by email
+
+## TASK 3. Automating Updating of Catalog Information
+
+You work for an online fruits store, and you need to develop a system that will update the catalog information with data provided by your suppliers. The the supplier send the data as large images with an associated description of the products in two files (.TIF for the image and .txt for the description). The images need to be converted to smaller jpeg images and the text needs to be turned into an HTML file that shows the image and the product description. The contents of the HTML file need to be uploaded to a web service that is already running using Django. You also need to gather the name and weight of all fruits from the .txt files and use a Python request to upload it to your Django server.
+
+What I've Completed
+- Write a script that summarizes and processes sales data into different categories
+- Generate a PDF using Python
+- Automatically send a PDF by email
+- Write a script to check the health status of the system
